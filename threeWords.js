@@ -2,10 +2,6 @@
  * https://js.checkio.org/mission/three-words/
  */
 
-function isWord(index) {
-	
-}
-
 function threeWords(data) {
 	var words = data.split(" ");
 	if (words.length<3) return false;
