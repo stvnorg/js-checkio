@@ -1,1 +1,1 @@
-Collections of Javascript Code for js.checkio.org
+Javascript Code Collections for js.checkio.org
